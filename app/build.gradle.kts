@@ -44,5 +44,5 @@ dependencies {
     testImplementation("junit:junit:4.13.2")
     androidTestImplementation("androidx.test.ext:junit:1.1.5")
     androidTestImplementation("androidx.test.espresso:espresso-core:3.5.1")
-    implementation ("com.github.GoodAppR:Custom-Toast:1.0.2")
+    implementation ("com.github.GoodAppR:Custom-Toast:d5f7df16")
 }
