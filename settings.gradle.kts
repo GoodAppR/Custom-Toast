@@ -26,4 +26,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "Toast"
 include(":app")
- 
+include(":toast")
