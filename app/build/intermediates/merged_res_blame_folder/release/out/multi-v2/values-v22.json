@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "good.library.toast.app-mergeReleaseResources-2:/values-v22/values-v22.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\yp897\\AppData\\Local\\Android\\Sdk\\caches\\transforms-3\\18c63e17609f3181d5a0f1d6f3127fb1\\transformed\\appcompat-1.6.1\\res\\values-v22\\values-v22.xml",
+                    "from": {
+                        "startLines": "2,3,4,9",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,130,217,487",
+                        "endLines": "2,3,8,13",
+                        "endColumns": "74,86,12,12",
+                        "endOffsets": "125,212,482,764"
+                    }
+                }
+            ]
+        }
+    ]
+}

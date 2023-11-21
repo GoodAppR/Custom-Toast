@@ -1,0 +1,82 @@
+[
+    {
+        "merged": "good.library.toast.app-merged_res-4:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "good.library.toast.app-main-5:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "good.library.toast.app-merged_res-4:/drawable_custom_icon_toast.xml.flat",
+        "source": "good.library.toast.app-main-5:/drawable/custom_icon_toast.xml"
+    },
+    {
+        "merged": "good.library.toast.app-merged_res-4:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "good.library.toast.app-main-5:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "good.library.toast.app-merged_res-4:/layout_toast_custom.xml.flat",
+        "source": "good.library.toast.app-main-5:/layout/toast_custom.xml"
+    },
+    {
+        "merged": "good.library.toast.app-merged_res-4:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "good.library.toast.app-main-5:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "good.library.toast.app-merged_res-4:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "good.library.toast.app-main-5:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "good.library.toast.app-merged_res-4:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "good.library.toast.app-main-5:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "good.library.toast.app-merged_res-4:/drawable_ic_launcher_background.xml.flat",
+        "source": "good.library.toast.app-main-5:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "good.library.toast.app-merged_res-4:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "good.library.toast.app-main-5:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "good.library.toast.app-merged_res-4:/layout_activity_main.xml.flat",
+        "source": "good.library.toast.app-main-5:/layout/activity_main.xml"
+    },
+    {
+        "merged": "good.library.toast.app-merged_res-4:/xml_backup_rules.xml.flat",
+        "source": "good.library.toast.app-main-5:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "good.library.toast.app-merged_res-4:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "good.library.toast.app-main-5:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "good.library.toast.app-merged_res-4:/xml_data_extraction_rules.xml.flat",
+        "source": "good.library.toast.app-main-5:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "good.library.toast.app-merged_res-4:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "good.library.toast.app-main-5:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "good.library.toast.app-merged_res-4:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "good.library.toast.app-main-5:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "good.library.toast.app-merged_res-4:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "good.library.toast.app-main-5:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "good.library.toast.app-merged_res-4:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "good.library.toast.app-main-5:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "good.library.toast.app-merged_res-4:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "good.library.toast.app-main-5:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "good.library.toast.app-merged_res-4:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "good.library.toast.app-main-5:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "good.library.toast.app-merged_res-4:/drawable_bg_custom_toast.xml.flat",
+        "source": "good.library.toast.app-main-5:/drawable/bg_custom_toast.xml"
+    }
+]

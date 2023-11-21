@@ -42,7 +42,7 @@ publishing {
         create<MavenPublication>("maven") {
             groupId = "good.library.toast"
             artifactId = "library"
-            version = "5.55.5"
+            version = "5.55.6"
         }
     }
 }

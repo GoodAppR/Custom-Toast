@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "good.library.toast.app-mergeReleaseResources-2:/values-watch-v21/values-watch-v21.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\yp897\\AppData\\Local\\Android\\Sdk\\caches\\transforms-3\\18c63e17609f3181d5a0f1d6f3127fb1\\transformed\\appcompat-1.6.1\\res\\values-watch-v21\\values-watch-v21.xml",
+                    "from": {
+                        "startLines": "2,6,10",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,271,499",
+                        "endLines": "5,9,13",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "266,494,724"
+                    }
+                }
+            ]
+        }
+    ]
+}
