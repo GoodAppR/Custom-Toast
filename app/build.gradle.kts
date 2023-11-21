@@ -34,6 +34,18 @@ android {
     kotlinOptions {
         jvmTarget = "17"
     }
+
+}
+publishing {
+    publications {
+        create<MavenPublication>("maven") {
+            groupId = "good.library.toast"
+            artifactId = "library"
+            version = "3.33.3"
+
+            from(components["java"])
+        }
+    }
 }
 
 dependencies {
