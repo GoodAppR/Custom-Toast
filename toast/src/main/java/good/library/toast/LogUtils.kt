@@ -7,5 +7,5 @@ object LogUtils {
     fun showLog() {
         Log.d("dsadasds", "log")
     }
-    
+
 }
