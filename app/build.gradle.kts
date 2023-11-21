@@ -41,9 +41,7 @@ publishing {
         create<MavenPublication>("maven") {
             groupId = "good.library.toast"
             artifactId = "library"
-            version = "3.33.3"
-
-            from(components["java"])
+            version = "3.33.4"
         }
     }
 }
