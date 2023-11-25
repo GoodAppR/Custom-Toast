@@ -16,21 +16,21 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
         val buttonShowToast = findViewById<Button>(R.id.buttonShowToast)
-//        buttonShowToast.setOnClickListener {
-//            showToast("Test Toast")
-//        }
-        
+        buttonShowToast.setOnClickListener {
+            showToast("Test Toast")
+        }
+
     }
 
-//    fun showToast(text: String) {
-//        val inflater: LayoutInflater = layoutInflater
-//        val view: View =
-//            inflater.inflate(R.layout.toast_custom, findViewById(R.id.containerToast))
-//        val toast = Toast(this)
-//        toast.setGravity(Gravity.BOTTOM, 0, 0)
-//        toast.duration = Toast.LENGTH_SHORT
-//        toast.view = view
-//        view.findViewById<TextView>(R.id.textCustomToast).text = text
-//        toast.show()
-//    }
+    fun showToast(text: String) {
+        val inflater: LayoutInflater = layoutInflater
+        val view: View =
+            inflater.inflate(R.layout.toast_custom, findViewById(R.id.containerToast))
+        val toast = Toast(this)
+        toast.setGravity(Gravity.BOTTOM, 0, 0)
+        toast.duration = Toast.LENGTH_SHORT
+        toast.view = view
+        view.findViewById<TextView>(R.id.textCustomToast).text = text
+        toast.show()
+    }
 }
