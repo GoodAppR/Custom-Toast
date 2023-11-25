@@ -19,7 +19,6 @@ class MainActivity : AppCompatActivity() {
         buttonShowToast.setOnClickListener {
             showToast("Test Toast")
         }
-
     }
 
     fun showToast(text: String) {

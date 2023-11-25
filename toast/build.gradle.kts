@@ -31,6 +31,13 @@ android {
     kotlinOptions {
         jvmTarget = "17"
     }
+    publishing {
+        multipleVariants {
+            allVariants()
+            withJavadocJar()
+            withSourcesJar()
+        }
+    }
 }
 
 publishing {
@@ -38,7 +45,7 @@ publishing {
         create<MavenPublication>("maven") {
             groupId = "good.library.toast"
             artifactId = "library"
-            version = "5.55.6"
+            version = "6.0.2"
         }
     }
 }
