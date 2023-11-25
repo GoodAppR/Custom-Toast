@@ -40,12 +40,23 @@ android {
     }
 }
 
-publishing {
-    publications {
-        create<MavenPublication>("maven") {
-            groupId = "good.library.toast"
-            artifactId = "library"
-            version = "6.0.2"
+afterEvaluate {
+    publishing {
+        publications {
+            create<MavenPublication>("mavenRelease") {
+                groupId = "good.library.toast"
+                artifactId = "good"
+                version = "6.0.3"
+
+                from(components["release"])
+            }
+            create<MavenPublication>("mavenDebug") {
+                groupId = "good.library.toast"
+                artifactId = "good"
+                version = "6.0.3"
+
+                from(components["debug"])
+            }
         }
     }
 }
